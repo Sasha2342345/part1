@@ -97,7 +97,6 @@ There are only 2 required dependencies, however the rest require some configurat
 
 ```sh
 git clone https://github.com/pystardust/ytfzf
-изменение 1 git clone https://github.com/pystardust/ytfzf
 cd ytfzf
 sudo make install doc
 ```
